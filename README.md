@@ -45,3 +45,29 @@ The Definitive Guide* by David Flanagan.
 -   [MDN: Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 -   [MDN: Using classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes)
 -   [The Modern JavaScript Tutorial](https://javascript.info/class)
+
+### Replacing nodes
+
+-   [MDN: replaceWith](https://developer.mozilla.org/en-US/docs/Web/API/Element/replaceWith)
+
+## 3.
+
+### Private properties
+
+-   Flanagan 9.3.3. Public, Private, and Static Fields (pp. 232–234)
+-   [Eloquent JavaScript](https://eloquentjavascript.net/06_object.html#h-u5kICdau5v)
+-   [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Private_properties)
+-   [The Modern JavaScript Tutorial](https://javascript.info/private-protected-properties-methods)
+
+### Getters & setters
+
+-   Flanagan 6.10.6. Property Getters and Setters (pp. 150–152)
+-   Flanagan 9.3.2. Getters, Setters, and other Method Forms (p. 232)
+-   [Eloquent Javascript](https://eloquentjavascript.net/06_object.html#h-3vwredi8nD)
+
+### Static properties
+
+-   Flanagan 9.3.1. Static Methods (pp. 231—232)
+-   [Eloquent Javascript](https://eloquentjavascript.net/06_object.html#h-3vwredi8nD)
+-   [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#static_methods_and_fields)
+-   [The Modern JavaScript Tutorial](https://javascript.info/static-properties-methods)
