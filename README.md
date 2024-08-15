@@ -71,3 +71,16 @@ The Definitive Guide* by David Flanagan.
 -   [Eloquent Javascript](https://eloquentjavascript.net/06_object.html#h-3vwredi8nD)
 -   [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes#static_methods_and_fields)
 -   [The Modern JavaScript Tutorial](https://javascript.info/static-properties-methods)
+
+## 4.
+
+### Inheritance
+
+-   [The Modern JavaScript Tutorial](https://javascript.info/class-inheritance)
+-   [Eloquent JavaScript](https://eloquentjavascript.net/06_object.html#h-/a3bnONnws)
+-   [MDN: Extends](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends)
+-   [MDN: Super](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+
+### Composition
+
+-   [Wikipedia: Composition over inheritence](https://en.wikipedia.org/wiki/Composition_over_inheritance)
