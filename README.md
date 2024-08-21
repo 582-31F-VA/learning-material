@@ -84,3 +84,17 @@ The Definitive Guide* by David Flanagan.
 ### Composition
 
 -   [Wikipedia: Composition over inheritence](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+
+## 6.
+
+### Asynchronous programming
+
+-   [Eloquent JavaScript](https://eloquentjavascript.net/11_async.html)
+-   [MDN: Asynchronous](https://developer.mozilla.org/en-US/docs/Glossary/Asynchronous)
+-   [MDN: Introducing asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+
+### Promises
+
+-   [Eloquent JavaScript](https://eloquentjavascript.net/11_async.html#h-sdRy5CTAP/)
+-   [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
+-   [The Modern JavaScript Tutorial](https://javascript.info/promise-basics)
