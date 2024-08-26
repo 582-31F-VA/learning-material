@@ -92,9 +92,21 @@ The Definitive Guide* by David Flanagan.
 -   [Eloquent JavaScript](https://eloquentjavascript.net/11_async.html)
 -   [MDN: Asynchronous](https://developer.mozilla.org/en-US/docs/Glossary/Asynchronous)
 -   [MDN: Introducing asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
+-   [Bob Nystrom: What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 
 ### Promises
 
 -   [Eloquent JavaScript](https://eloquentjavascript.net/11_async.html#h-sdRy5CTAP/)
 -   [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises)
 -   [The Modern JavaScript Tutorial](https://javascript.info/promise-basics)
+
+## 7.
+
+### Fetch
+
+-   [Eloquent Javascript: Fetch](https://eloquentjavascript.net/18_http.html#h-1Iqv5okrKE)
+-   [MDN: Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+-   [MDN: Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+-   [MDN: Request](https://developer.mozilla.org/en-US/docs/Web/API/Request)
+-   [MDN: Response](https://developer.mozilla.org/en-US/docs/Web/API/Response)
+-   [The Modern JavaScript Tutorial: Fetch](https://javascript.info/fetch)
