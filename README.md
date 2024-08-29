@@ -110,3 +110,11 @@ The Definitive Guide* by David Flanagan.
 -   [MDN: Request](https://developer.mozilla.org/en-US/docs/Web/API/Request)
 -   [MDN: Response](https://developer.mozilla.org/en-US/docs/Web/API/Response)
 -   [The Modern JavaScript Tutorial: Fetch](https://javascript.info/fetch)
+
+## 8.
+
+### Exceptions
+
+-   [MDN: Exception handling statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#exception_handling_statements)
+-   [Eloquent JavaScript: Exceptions](https://eloquentjavascript.net/08_error.html#h-zT3755/aOp)
+-   [The Modern JavaScript Tutorial: Error handling with promises](https://javascript.info/promise-error-handling)
