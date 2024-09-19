@@ -118,3 +118,16 @@ The Definitive Guide* by David Flanagan.
 -   [MDN: Exception handling statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#exception_handling_statements)
 -   [Eloquent JavaScript: Exceptions](https://eloquentjavascript.net/08_error.html#h-zT3755/aOp)
 -   [The Modern JavaScript Tutorial: Error handling with promises](https://javascript.info/promise-error-handling)
+
+## 12.
+
+### Web components
+
+-   [MDN: Concepts and usage](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)
+-   [The Modern JavaScript Tutorial: From the orbital height](https://javascript.info/webcomponents-intro)
+
+### Custom elements
+
+-   [MDN: Using custom elements](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements)
+-   [Web.dev: Custom Elements v1 - Reusable Web Components](https://web.dev/articles/custom-elements-v1)
+-   [The Modern JavaScript Tutorial: Custom elements](https://javascript.info/custom-elements)
