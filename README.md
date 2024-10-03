@@ -131,3 +131,27 @@ The Definitive Guide* by David Flanagan.
 -   [MDN: Using custom elements](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements)
 -   [Web.dev: Custom Elements v1 - Reusable Web Components](https://web.dev/articles/custom-elements-v1)
 -   [The Modern JavaScript Tutorial: Custom elements](https://javascript.info/custom-elements)
+
+## 15.
+
+### Shadow DOM
+
+-   [MDN: Using shadow DOM](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_shadow_DOM)
+
+### this
+
+-   [MDN: this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+
+## 16.
+
+### History API
+
+-   [MDN: History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
+
+### URL API
+
+-   [MDN: URL](https://developer.mozilla.org/en-US/docs/Web/API/URL)
+
+### Query strings
+
+-   [MDN: URLSearchParam](https://developer.mozilla.org/en-US/docs/Web/API/URLSearchParams)
